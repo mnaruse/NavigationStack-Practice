@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:FruitLibrary">
+   </FileRef>
+   <FileRef
+      location = "group:Basic/Basic.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Endless/Endless.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:OneTypeOfData/OneTypeOfData.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:MultipleTypesOfData/MultipleTypesOfData.xcodeproj">
+   </FileRef>
+</Workspace>
